@@ -6,5 +6,6 @@ For Computer Science students who stumbled upon this: please do not utilize this
 
 List of Projects:
 1. Mortgage Calculator with Input
-2. TBD
-3. TBD
+2. Textbook Example (Chocolate bars)
+3. Textbook Example (Convert a four digit binary number to decimal)
+4. Dice + Die + Driver (Virtual Dice)
