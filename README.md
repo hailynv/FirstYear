@@ -9,3 +9,7 @@ List of Projects:
   - mortgageCalculatorWithInput.java
   - problemEight_PageOneThirtyThree.java
   - problemSixpage132.java
+2. Virtual Dice
+  - Dice.java
+  - Die.java
+  - dieDriver.java
