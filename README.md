@@ -6,6 +6,6 @@ For Computer Science students who stumbled upon this: please do not utilize this
 
 List of Projects:
 1. Textbook Problems
-- mortgageCalculatorWithInput.java
-- problemEight_PageOneThirtyThree.java
-- problemSixpage132.java
+  - mortgageCalculatorWithInput.java
+  - problemEight_PageOneThirtyThree.java
+  - problemSixpage132.java
